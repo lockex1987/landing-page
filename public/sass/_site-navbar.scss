@@ -1,0 +1,19 @@
+.site-navbar {
+	top: 0;
+	padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+	transition: .3s all ease;
+
+	.site-logo {
+		width: 2rem;
+		height: 2rem
+	}
+
+	&.shrink {
+		padding-top: 0.5rem;
+		padding-bottom: 0.5rem;
+		background: $white;
+		box-shadow: 4px 0 20px -5px rgba(0, 0, 0, .1);
+	}
+}
+

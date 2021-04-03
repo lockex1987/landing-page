@@ -1,0 +1,8 @@
+/node_modules
+/public/storage
+/storage
+/vendor
+.env
+landing-page-archive.tar
+archive
+
