@@ -1,8 +1,6 @@
-/node_modules
-/public/storage
-/storage
-/vendor
+node_modules
+public/storage
+vendor
 .env
-landing-page-archive.tar
-archive
-
+composer.lock
+package-lock.json
